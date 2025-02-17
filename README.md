@@ -10,7 +10,7 @@ These Python scripts demonstrate some basic blockchain concepts, like hashing an
 
 ## Code Examples
 
-* `blockchain_experiment.py`: This script creates a simple blockchain and adds some "transactions" (represented as dictionaries).  It also includes a very basic validation function.
+* `main.py`: This script creates a simple blockchain and adds some "transactions" (represented as dictionaries).  It also includes a very basic validation function.
 
 ## Important Considerations
 
